@@ -2,7 +2,7 @@
 
 **This Repository is created for Day 6 Task**
 
-#  1. *  Class - Movie
+#  1. Class - Movie
 
 *The class Movie is stated below.*
 *An instance of class Movie represents a film.*
