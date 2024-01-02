@@ -28,6 +28,10 @@
      
 + *Source file is in Folder:* **Circle_Class**
 
-#   3. *Write a “person” class to hold all the details*
+#   3. *Write a “person” class to hold all the details.*
      
 + *Source file is in Folder:* **Person**
+  
+#   4. *Write a class to calculate the Uber price.*
+     
++ *Source file is in Folder:* **Uber_Price**
