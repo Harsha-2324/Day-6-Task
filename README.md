@@ -1,4 +1,4 @@
-# ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*brNskubmnOlmH7v1BkEStA.png)
+# ![Alt text](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-deErZ4lQthb_VIAUzeflg.png)
 
 **This Repository is created for Day 6 Task**
 
