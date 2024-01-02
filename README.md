@@ -23,7 +23,7 @@
    + *Source file is in Folder:* **Movie**
 
 
-+ 2. *Convert the UML diagram to Typescript class. - use number for double*
-      + ![https://raw.githubusercontent.com/rvsp/typescript-oops/master/images/ClassDiagram_Circle.png]
+#   2. *Convert the UML diagram to Typescript class. - use number for double*
+      + ![Alt text](https://raw.githubusercontent.com/rvsp/typescript-oops/master/images/ClassDiagram_Circle.png)
   
     + *Source file is in Folder:* **Circle_Class**
