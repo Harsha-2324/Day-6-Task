@@ -20,10 +20,14 @@
 
 + *d) Write a piece of code that creates an instance of the class Movie with the title “Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”*
 
-   + *Source file is in Folder:* **Movie**
++ *Source file is in Folder:* **Movie**
 
 
 #   2. *Convert the UML diagram to Typescript class. - use number for double*
 ![Alt text](https://raw.githubusercontent.com/rvsp/typescript-oops/master/images/ClassDiagram_Circle.png)
      
-  + *Source file is in Folder:* **Circle_Class**
++ *Source file is in Folder:* **Circle_Class**
+
+#   3. *Write a “person” class to hold all the details*
+     
++ *Source file is in Folder:* **Person**
