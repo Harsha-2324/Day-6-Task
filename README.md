@@ -23,6 +23,7 @@
    + *Source file is in Folder:* **Movie**
 
 
-+ 2. *Create your own resume data in JSON format*
++ 2. *Convert the UML diagram to Typescript class. - use number for double*
+      + ![https://raw.githubusercontent.com/rvsp/typescript-oops/master/images/ClassDiagram_Circle.png]
   
-    + *Source file is in Folder:* **JSON Resume**
+    + *Source file is in Folder:* **Circle_Class**
